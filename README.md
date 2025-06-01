@@ -1,6 +1,6 @@
 # 🧠 AI Voice Recognition System  
 
-[![Watch the demo](https://www.youtube.com/watch?v=c15vyjWaoI8)]([[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/c15vyjWaoI8)](https://www.youtube.com/watch?v=c15vyjWaoI8)
+([https://www.youtube.com/watch?v=c15vyjWaoI8)](https://goconsensus.com/wp-content/uploads/blog-feature-SalesMktg-InteractiveDemosCTA.png)]([[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/c15vyjWaoI8)](https://www.youtube.com/watch?v=c15vyjWaoI8)
 
 
 # 🧠 AI Voice Recognition System  
