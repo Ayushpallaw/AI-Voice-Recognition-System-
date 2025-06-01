@@ -1,3 +1,9 @@
+[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
+
+
+
+
 # 🧠 AI Voice Recognition System  
 An intelligent system that recognizes and processes human voice commands for seamless interaction.
 
