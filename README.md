@@ -1,7 +1,6 @@
-[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://youtu.be/c15vyjWaoI8))
+# 🧠 AI Voice Recognition System  
 
-
-
+[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/c15vyjWaoI8))
 
 
 # 🧠 AI Voice Recognition System  
